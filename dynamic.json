@@ -1,0 +1,52 @@
+{
+  "basics":{
+    "img":"images/image.jpg",
+    "name":"prathap",
+    "email":"sprathp@gmail.com",
+    "roll":"17699A0541"
+  },
+  "career":{
+    "infor":"i want to seek a position where i can explore taughts and ideas"
+  },
+  "education":[
+    {
+      "sno":"1",
+      "degree":"Btech",
+      "institute":"MITS",
+      "percentage":"80"
+    },
+    {
+      "sno":"2",
+      "degree":"intermediate",
+      "institute":"sri chaitanya",
+      "percentage":"94"
+    },
+    {
+      "sno":"3",
+      "degree":"ssc",
+      "institute":"sri chaitanya",
+      "percentage":"80"
+    }
+
+  ],
+  "skills":[
+    {
+      "info":"c"
+    },
+    {
+      "info":"c++"
+    },
+    {
+      "info":"java"
+    },
+    {
+      "info":"python"
+    },
+    {
+      "info":"DAA"
+    },
+    {
+      "info":"opps"
+    }
+  ]
+}

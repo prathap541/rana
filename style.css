@@ -1,0 +1,60 @@
+body{
+  background:#f358e3;
+
+}
+.parent{
+  background:#5dade2;
+  display: flex;
+  margin:5%;
+  padding:1%;
+
+
+}
+.child{
+  background:#f1948a;
+  margin:4%;
+  text-align:center;
+  justify-content:space-around;
+  width:30%; height: 400PX;
+}
+.child:hover{
+  background-color: grey;
+}
+img{
+  width:80%;height: 200px
+}
+@media only screen and (min-width:320px) and (max-width:480px){
+body{
+  background:#4ff618;
+}
+.parent{
+  display:flex;
+  flex-wrap: wrap;
+}
+.child{
+  width: 100%;
+}
+}
+@media only screen and (min-width:621px) and (max-width:1024px){
+body{
+  background:orange;
+}
+.parent{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 3%;
+  padding: 3%;
+  border-radius: 10%;
+  border-style: groove;
+  width: 80%;
+  height: 90%;
+
+}
+.child{
+  width: 40%;
+  border-style: groove;
+  border-radius: 15%;
+  height: 60%;
+}
+}

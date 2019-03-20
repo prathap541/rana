@@ -1,0 +1,28 @@
+body{
+  background:#f358e3;
+
+}
+.info{
+  background:#5dade2;
+  display: flex;
+  margin:5%;
+  padding:1%;
+
+
+}
+.right{
+  background:#f1948a;
+  margin:4%;
+  text-align:center;
+  justify-content:space-around;
+  width:70%;
+}
+.child:hover{
+  background-color: grey;
+}
+img{
+  width:80%;height: 200px
+}
+table{
+  border:1px;
+}
